@@ -6,7 +6,7 @@ print(list(map (lambda x,y:x+y,list1,list2)))
 list2=[4,5,6,7,8,6]
 print(list(map (lambda x,y:x+y,list1,list2)))
 
-l=['12345','shruti','shru']
+l=['12345','janesh','jane']
 print(list(map(list,l)))
 
 sq=lambda y:y**2
@@ -25,7 +25,7 @@ print( sum)
 
 max=reduce (lambda x,y: x if x>y else y,list1)
 print(max)
-print("shruti".upper())
+print("janesh".upper())
 
 def func1(x):
   return x+5
