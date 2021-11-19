@@ -438,7 +438,7 @@ yhn
 str1=input("enter string :")
 print("in upper :" ,str1.upper())
 print("in lower :" ,str1.lower())
-enter string :SHruti
+enter string :JanESh
 in upper : JANESH
 in lower : janesh
   
