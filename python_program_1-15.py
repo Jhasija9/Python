@@ -37,7 +37,7 @@ enter any integer no. :2
 14
 
 #6.Write a Python program to calculate the length of a string
-string="shruti tiwari"
+string="janesh hasija"
 print(len(string))
 13
 
